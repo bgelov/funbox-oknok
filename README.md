@@ -20,7 +20,7 @@
 
 Код: [main.py](https://github.com/bgelov/funbox-oknok/blob/main/main.py)
 
-- Вывод ключ-значение или консольный вывод
+- Вывод ключ-значение или консольный вывод. Можно реализовать и вывод минут с нулевыми значениями.
 
 ![image](https://github.com/bgelov/funbox-oknok/assets/5302940/d93d2778-21f9-4224-8dab-ad8e906b0e49)
 
